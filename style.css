@@ -2,10 +2,10 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
 }
 .container{
     display: grid;
+    height:100vh;
     background-color:#000;
     height: 748px;
     width: 748px;
